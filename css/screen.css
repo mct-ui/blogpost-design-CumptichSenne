@@ -19,7 +19,6 @@
 html {
     font-size: 16px;
     line-height: 1.5;
-    /* font-family: "Inter Web", "Helvetica Neue", Helvetica, arial, sans-serif;*/
     font-family: "droid-serif", Georgia, serif;
     color: #5C6366;
     padding: 48px 24px 24px;
@@ -68,6 +67,7 @@ h3 {
 }
 
 h1 {
+    font-family: 'Playfair Display', serif;
     font-size: 36px;
     line-height: 40px;
     margin: 0 0 24px;
